@@ -9,7 +9,7 @@
 */
 
 /**
- * thanks for the help ..
+ * thanks for the help ...
  */
 import java.io.*;
 import java.text.SimpleDateFormat;
