@@ -2,7 +2,10 @@
  * this Project is for Final Requirement in OOP 
  * This code is origin by Hemerson G. Ramiro Jr.(Pogi)
  */
-
+/**
+* hellow sir Ahmad this is my code for the final requirements i told you before can you judge this if this enough
+* the you sent on me that you made that before was totally accept by my Prof but i try to make code ny myself for this
+*/
 
 
 import java.io.*;
