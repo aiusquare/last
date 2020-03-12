@@ -4,7 +4,7 @@
  */
 
 /**
-* hello sir Ahmad this is my code for the final requirements i told you before can you judge this if this enough
+* hello sir ahmad this is my code for the final requirements i told you before can you judge this if this enough
 * the you sent on me that you made that before was totally accept by my Prof but i try to make code ny myself for this
 */
 
